@@ -1,0 +1,3 @@
+function triple(x) {
+
+}
